@@ -97,7 +97,7 @@ Helps investors identify diversification opportunities and reduce portfolio risk
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/FinSight.git
+https://github.com/Kusum067/FinSight-AI-Powered-Stock-Correlation-Analyzer.git
 ```
 
 ---
